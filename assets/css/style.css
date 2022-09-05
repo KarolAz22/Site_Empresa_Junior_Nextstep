@@ -1,3 +1,7 @@
+/* Font Roboto */
+    @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+/* Roboto */
+
 *{
     margin: 0;
     box-sizing: border-box;
@@ -28,16 +32,15 @@
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    font-size: 18px;
+    font-size: 14px;
     line-height: 16px;
     color: #54E346;
     padding-left: 50px;
+    text-transform: uppercase;
     /*padding-left: 100px;*/
-    margin-right: 25px;
-    
-    
-    
+    margin-right: 25px;    
 }
+
 .cabecalho-menu-redes{
     padding-right: 10px;
     
